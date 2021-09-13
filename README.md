@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MichalFijak
 - 👀 I’m interested in - learning and improving coding skills,
 - 🌱 I’m currently learning - c++, c# , unity,
-- 💞️ I’m looking to collaborate - game dev,
+- 💞️ I’m looking to collaborate - junior software dev,
 - 📫 How to reach me - via email
 
 <!---
